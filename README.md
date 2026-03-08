@@ -1,5 +1,4 @@
-# style.css
-Portafolio de Servicios -SST
+
 :root {
     --bg: #ffffff;
     --fg: #000000;
